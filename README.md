@@ -32,6 +32,11 @@ Bug pre-conditions are:
 
 **Question for Developers**: Why did you use POST action for deletion instead of DELETE action?
 
+**Bug 0**: Security Bug
+- Severity: Extremely High
+- Steps to reproduce:
+	- Due to the severity of the bug it will not be described here. If you want more information please contact me.
+
 #### Login Page
 
 **Question for designer**: Text written by the user has the same color as inactive placeholders. is that the expected design? or written text should have a strong color?
